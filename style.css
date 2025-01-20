@@ -76,6 +76,6 @@ body{
 /* MEDIA QUERY (xl) */
 @media screen and  (min-width: 1240px){
     body{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
     }
 }
