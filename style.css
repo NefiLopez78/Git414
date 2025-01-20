@@ -68,13 +68,13 @@ body{
     }
 }
 /* MEDIA QUERY (large) */
-@media screen and  (min-width: 1200px){
+@media screen and  (min-width: 1020px){
     body{
         grid-template-columns: 1fr;
     }
 }
 /* MEDIA QUERY (xl) */
-@media screen and  (min-width: 1440px){
+@media screen and  (min-width: 1240px){
     body{
         grid-template-columns: 1fr 1fr;
     }
