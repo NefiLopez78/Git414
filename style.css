@@ -62,13 +62,13 @@ body{
     grid-template-columns: 1fr;
 }
 /* MEDIA QUERY (medium) */
-@media screen and (min-width:941px) {
+@media screen and (min-width:900px) {
     body{
         grid-template-columns: 1fr 1fr;
     }
 }
 /* MEDIA QUERY (large) */
-@media screen and  (min-width: 1020px){
+@media screen and  (min-width: 1000px){
     body{
         grid-template-columns: 1fr;
     }
